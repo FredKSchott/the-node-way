@@ -1,7 +1,7 @@
 ![icon](NodeJS-Cookbook.png)   NodeJS-Cookbook
 ==============================================
 
-tasty design patterns and practices for Node.js and its most popular packages.
+Tasty design patterns and practices for Node.js and its most popular packages.
 
 ####Chapter 1 - [Designing Singletons](http://fredkschott.com/post/2013/12/node-js-cookbook---designing-singletons/)
 
