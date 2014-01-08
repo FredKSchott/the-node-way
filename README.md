@@ -5,3 +5,4 @@ Tasty design patterns and practices for Node.js and its most popular packages.
 
 ####Chapter 1 - [Designing Singletons](http://fredkschott.com/post/2013/12/node-js-cookbook---designing-singletons/)
 
+####Chapter 2 - Creating Constructors [Release Date: 01/08/14]
