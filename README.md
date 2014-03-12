@@ -14,4 +14,4 @@ Design patterns and best practices for Node.js and its most popular packages.
 ---
 
 Logo designed by <a href="http://www.thenounproject.com/charles/" target="_blank">Charles Riccardi.</a>   
-2014 Copyright Fred K. Schott. All rights reserved.
+2014 Copyright [Fred K. Schott](http://fredkschott.com/). All rights reserved.
