@@ -12,8 +12,8 @@ Design patterns and best practices for Node.js and its most popular packages.
 #### [Understanding Error-First Callbacks](http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js/)
 >  If the V8 Engine is the heart of your Node.js application, then callbacks are its veins. They enable a balanced, non-blocking flow of control and processing power across applications and modules. But for callbacks to work at scale, developers needed a common, reliable protocol. The "error-first" callback (or "Errorback") was introduced to solve this problem, and has since become *the* standard protocol for Node.js callbacks. This post will define this pattern, it's proper use, and exactly why it is so powerful.
 
-#### Testing Essentials (Coming Soon...)
-> This post will explain the types of tools needed to overcome the challenges of testing with Node.js. Together, these tools form an essential testing suite that can be used to test almost any project. The setup isn't the most complex or feature-rich, but that is on purpose. If that sounds counter-intuitive to you, please read on.
+#### [Testing Essentials](http://fredkschott.com/post/2014/05/nodejs-testing-essentials/)
+> This post will explain the types of tools needed to overcome the challenges of testing with Node.js. Together, these tools form an essential testing suite that will cover almost any project. The setup isn't the most complex or feature-rich, but you could say that's on purpose. If that sounds counter-intuitive... read on.
 
 
 
