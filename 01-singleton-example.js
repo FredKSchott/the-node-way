@@ -17,13 +17,12 @@ var self = module.exports = {
 
   someProperty: 'I am public',
   
-  addFive: function(num) {
+  addFive: function addFive(num) {
     return sum(num, 5);
   },
   
-  toggleZ: function() {
-    z = !z;
-    return z;
+  toggleZ: function toggleZ() {
+    return z = !z;
   }
   
 };
