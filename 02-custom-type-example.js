@@ -39,7 +39,7 @@ User.prototype.addBalance = function(amount) {
 /*
  * app.js
  */
-var User = require('User');
+var User = require('./User');
 var bob = new User('Bob');
 var joe = new User('Joe');
 console.log(bob.id);         // 0
