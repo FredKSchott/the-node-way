@@ -32,7 +32,7 @@ var self = module.exports = {
 /*
  * app.js
  */
- var singleton = require('a-singleton');
+ var singleton = require('./a-singleton');
  console.log(singleton.x); // undefined (x is private)
  console.log(singleton.sum(1,2)); // undefined (sum is private)
  console.log(singleton.someProperty); // 'I am public'
