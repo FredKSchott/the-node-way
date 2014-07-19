@@ -24,7 +24,7 @@ describe('DonutQueue', function() {
     });
 
     afterEach(function() {
-        sandbox.verifyAndRestoreAll();
+        sandbox.verifyAndRestore();
         mockery.deregisterAll();
     });
 
