@@ -18,8 +18,8 @@ Design patterns and best practices for Node.js and its most popular packages.
 #### [How \`require()\` Actually Works](http://fredkschott.com/post/2014/06/require-and-the-module-system/)
 > Almost any Node.js developer can tell you what the `require()` function does, but how many of us actually know how it works? Curious, I dug into Node core to find out what was happening under the hood. But instead of finding a single function, I ended up at the heart of Node's module system. `require()`, it turned out, was only the tip of the iceberg.
 
-
-
+#### [Monkey Patches & MP3s - Exploring Dangerous Design Patterns in Node.js](http://fredkschott.com/post/2014/09/nodejs-dangerous-module-design-patterns/)
+> There are a million different ways to design a JavaScript module. Standard patterns like the singleton and custom type have been widely adopted, and when used together they provide a dependable feature-set. Some other patterns, however, push the limits of what a module can (and should) actually be. The first group is often encouraged, while the second is denounced without further thought. This post will attempt to explore that second group.
 
 ---
  
