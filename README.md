@@ -6,7 +6,7 @@ Design patterns and best practices for building scaleable, maintainable and beau
 ### Introduction
 [What is The Node Way?](http://thenodeway.io/introduction/)
 ### Master The Fundamentals
-[Understanding Error-First Callbacks](http://thenodeway.io/posts/fundamentals/understanding-error-first-callbacks/)
+[Understanding Error-First Callbacks](http://thenodeway.io/posts/fundamentals/understanding-error-first-callbacks/)  
 [Testing Essentials](http://thenodeway.io/posts/fundamentals/testing-essentials/)
 ### Start Building
 [Designing Singletons](http://thenodeway.io/posts/start-building/designing-singletons/)  
