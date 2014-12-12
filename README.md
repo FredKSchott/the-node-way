@@ -15,10 +15,9 @@ Design patterns and best practices for building scaleable, maintainable and beau
 [Dangerous Module Design Patterns](http://thenodeway.io/posts/get-fancy/dangerous-module-design-patterns/)  
 [Testing Essentials](http://thenodeway.io/posts/get-fancy/testing-essentials/)
 
+---
 
 *Visit __[thenodeway.io](http://thenodeway.io)__ and learn the way.*  
 *All code examples and website updates will be added to this repo. Watch for new posts, articles, and more.*
 
----
- 
-2014 Copyright [Fred K. Schott](https://twitter.com/FredKSchott). All rights reserved.
+*2014 Copyright [Fred K. Schott](https://twitter.com/FredKSchott). All rights reserved.*
