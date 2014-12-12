@@ -3,7 +3,8 @@
 
 Design patterns and best practices for building scaleable, maintainable and beautiful Node.js applications.
 
-This github repo powers [thenodeway.io](http://thenodeway.io). All code examples and website updates can be found here.
+Visit **[thenodeway.io](http://thenodeway.io)** and learn the way.  
+All code examples and website updates will be added to this repo.
 
 ---
  
