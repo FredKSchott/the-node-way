@@ -16,7 +16,7 @@ Design patterns and best practices for building scaleable, maintainable and beau
 [Testing Essentials](http://thenodeway.io/posts/get-fancy/testing-essentials/)
 
 
-*Visit **[thenodeway.io](http://thenodeway.io)** and learn the way.*  
+*Visit __[thenodeway.io](http://thenodeway.io)__ and learn the way.*  
 *All code examples and website updates will be added to this repo. Watch for new posts, articles, and more.*
 
 ---
