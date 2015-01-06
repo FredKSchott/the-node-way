@@ -10,7 +10,7 @@ Design patterns and best practices for building scaleable, maintainable and beau
 [Testing Essentials](http://thenodeway.io/posts/testing-essentials/)
 ### Start Building
 [Designing Singletons](http://thenodeway.io/posts/designing-singletons/)  
-[Designing Custom Types](http://thenodeway.io/posts/designing-custom-types/)
+[Designing Custom Types](http://thenodeway.io/posts/designing-custom-types/)  
 [Designing Factories](http://thenodeway.io/posts/designing-factories/)
 ### Get Fancy
 [How `require()` Actually Works](http://thenodeway.io/posts/how-require-actually-works/)  
