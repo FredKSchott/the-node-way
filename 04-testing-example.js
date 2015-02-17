@@ -12,24 +12,24 @@ var sandbox = sinon.sandbox.create(),
 describe('DonutQueue', function() {
     
     before(function() {
-        mockery.enable();
+        mockery.enable(); // Enable mockery at the start of your test suite
     });
 
     beforeEach(function() {
-        mockery.registerAllowable('async'); // Allow some
-        mockery.registerMock('../lib/donut', stubbedDonut); // Control others
-        mockery.registerAllowable('../lib/donut-queue', true); // lets us require our module under test
-        DonutQueue = require('../lib/donut-queue');
-        donutQueue = new DonutQueue();
+        mockery.registerAllowable('async');                    // Allow some modules to be loaded normally
+        mockery.registerMock('../lib/donut', stubbedDonut);    // Register others to be replaced with our stub
+        mockery.registerAllowable('../lib/donut-queue', true); // Allow our module under test to be loaded normally as well
+        DonutQueue = require('../lib/donut-queue');            // Load your module under test
+        donutQueue = new DonutQueue(); 
     });
 
     afterEach(function() {
-        sandbox.verifyAndRestore();
-        mockery.deregisterAll();
+        sandbox.verifyAndRestore(); // Verify all Sinon mocks have been honored
+        mockery.deregisterAll();    // Deregister all Mockery mocks from node's module cache
     });
 
     after(function() {
-        mockery.disable();
+        mockery.disable(); // Disable Mockery after tests are completed
     });
 
     describe('push', function() {
