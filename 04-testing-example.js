@@ -41,6 +41,7 @@ describe('DonutQueue', function() {
 
         it('should throw an error when called with a non-object', function() {
             var badDonut = -1253434;
+            donutQueue.push(badDonut);
             expect().to.throw();
         });
 
