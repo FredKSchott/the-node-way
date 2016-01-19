@@ -21,4 +21,4 @@ Design patterns and best practices for building scaleable, maintainable and beau
 *Visit __[thenodeway.io](http://thenodeway.io)__ and learn the way.*  
 *All code examples and website updates will be added to this repo. Watch for new posts, articles, and more.*
 
-*2014 Copyright [Fred K. Schott](https://twitter.com/FredKSchott). All rights reserved.*
+*2016 Copyright [Fred K. Schott](https://twitter.com/FredKSchott). All rights reserved.*
