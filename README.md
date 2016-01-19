@@ -6,15 +6,15 @@ Design patterns and best practices for building scaleable, maintainable and beau
 ### Introduction
 [What is The Node Way?](http://thenodeway.io/introduction/)
 ### Master The Fundamentals
-[Understanding Error-First Callbacks](http://thenodeway.io/posts/understanding-error-first-callbacks/)  
-[Testing Essentials](http://thenodeway.io/posts/testing-essentials/)
+[Understanding Error-First Callbacks](http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js/)  
+[Testing Essentials](http://fredkschott.com/post/2014/05/nodejs-testing-essentials/)
 ### Start Building
-[Designing Singletons](http://thenodeway.io/posts/designing-singletons/)  
-[Designing Custom Types](http://thenodeway.io/posts/designing-custom-types/)  
-[Designing Factories](http://thenodeway.io/posts/designing-factories/)
+[Designing Singletons](http://fredkschott.com/post/2013/12/node-js-cookbook---designing-singletons/)  
+[Designing Custom Types](http://fredkschott.com/post/2014/01/node-js-cookbook---constructors-and-custom-types/)  
+[Designing Factories](http://fredkschott.com/post/2015/01/the-node-way-designing-factories/)
 ### Get Fancy
-[How `require()` Actually Works](http://thenodeway.io/posts/how-require-actually-works/)  
-[Dangerous Module Design Patterns](http://thenodeway.io/posts/dangerous-module-design-patterns/)  
+[How `require()` Actually Works](http://fredkschott.com/post/2014/06/require-and-the-module-system/)  
+[Dangerous Module Design Patterns](http://fredkschott.com/post/2014/09/nodejs-dangerous-module-design-patterns/)  
 
 ---
 
